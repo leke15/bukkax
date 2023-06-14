@@ -1,0 +1,61 @@
+@font-face {
+  font-family: queen;
+  src: url(fonts/Quesha-gndR.ttf);
+}
+.space {
+  margin-left: 40px;
+}
+
+#navLinks {
+  font-family: queen;
+  font-size: 40px;
+  text-align: center;
+  margin-top: -8px;
+  margin-left: -8px;
+  background-color: black;
+  height: 100px;
+  width: 1599px;
+}
+
+#bukka {
+  font-family: queen;
+  font-size: 40px;
+  margin-top: 70px;
+}
+
+.cardTitle {
+  display: none;
+}
+
+#menu {
+  font-family: queen;
+  font-size: 60px;
+  margin-top: 150px;
+  text-align: center;
+}
+
+#menuBorder {
+  border: 0.2em solid;
+  width: 50%;
+  margin: auto;
+  margin-top: 9px;
+}
+
+.p {
+  font-family: queen;
+  font-size: 30px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+#img2 {
+  width: 250px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  margin-left: 250px;
+}/*# sourceMappingURL=food.css.map */
