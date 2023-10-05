@@ -1,2 +1,3 @@
+---
 permalink: /index.html
-# bukkax
+---
