@@ -1,0 +1,108 @@
+@font-face {
+  font-family: queen;
+  src: url(fonts/Quesha-gndR.ttf);
+}
+#bukka {
+  font-family: queen;
+  font-size: 95px;
+  padding-top: 50px;
+  margin-left: -600px;
+  color: white;
+}
+
+.cardTitle {
+  display: none;
+}
+
+#bukkaMenu {
+  font-family: queen;
+  font-size: 95px;
+  padding-top: 50px;
+  margin-left: -450px;
+  color: Black;
+}
+
+#scroll {
+  background-image: url(..\Images/back.jpeg);
+  background-size: 100%;
+  height: 700px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: 10px;
+  margin-top: -30px;
+}
+
+.space {
+  margin-left: 40px;
+}
+
+#navLinks {
+  font-family: queen;
+  font-size: 30px;
+  text-align: center;
+  margin-top: -8px;
+  margin-left: -8px;
+  background-color: black;
+  height: 100px;
+  width: 1599px;
+}
+
+#navLinks .indent {
+  padding-top: 35px;
+}
+
+a {
+  text-decoration: none;
+  color: White;
+  cursor: pointer;
+}
+#desc {
+  text-align: left;
+  width: 500px;
+  padding-left: 10px;
+  margin-top: -280px;
+  margin-left: 150px;
+  background-color: wheat;
+  position: absolute;
+}
+img {
+  width: 500px;
+  height: 300px;
+  padding-top: 150px;
+  padding-left: 500px;
+  z-index: 2;
+}
+
+#menu {
+  width: 300px;
+  height: 400px;
+  background-color: wheat;
+  margin-left: 658px;
+  margin-top: -40px;
+}
+
+#menu {
+  cursor: pointer;
+}
+
+.btn1 {
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  padding: auto;
+  background-color: wheat;
+  font-family: queen;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+.btn2{
+  width: 100px;
+  height: 80px;
+  text-align: center;
+  padding: auto;
+  background-color: wheat;
+  font-family: queen;
+  font-size: 20px;
+  border-radius: 5px;
+}
